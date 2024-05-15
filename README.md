@@ -1,20 +1,36 @@
-# Info
+# Hangman - Nguyen Minh Hieu
+
+---
+
+## Table of Contents
+
+- [Info](#Info).
+- [How to play](#How-to-play).
+- [Installation Instruction](#Installation-Instruction).
+
+---
+
+## Info
 
 - This is a Hangman game project made with pure C++, created as a university assignment.
 
-# How to play
+---
+
+## How to play
 
 - Selecting library: 
-  + Enter the number of the one you like, the game will then start.
+    + Enter the number of the one you like, the game will then start.
 
 - Gameplay:
-  + Enter your guess, one letter at a time.
-  + After guessing wrong 6 times, you lose.
-  + You can enter 1 to play again, the game is able to remember your highest score.
+    + Enter your guess, one letter at a time.
+    + After guessing wrong 6 times, you lose.
+    + You can enter 1 to play again, the game is able to remember your highest score.
 
-# Installation instructions
+---
 
-- You need c++ and a c++ compiler installed an your PC.
+## Installation instructions
+
+- Requirement: C++ language and C++ compiler.
 
 - Download the whole reposition and extract it, both "hangman" files and "resource" are specificially have to be in the same folder.
 
