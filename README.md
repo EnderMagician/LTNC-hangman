@@ -26,6 +26,9 @@
     + Enter your guess, one letter at a time.
     + After guessing wrong 6 times, you lose.
     + You can enter 1 to play again, the game is able to remember your highest score.
+ 
+- Gameplay demo:
+    + ![Watch this video](https://youtu.be/xQWfwhKzQO4)
 
 ---
 
