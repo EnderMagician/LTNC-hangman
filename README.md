@@ -28,7 +28,7 @@
     + You can enter 1 to play again, the game is able to remember your highest score.
  
 - Gameplay demo:
-    + ![Watch this video](https://youtu.be/xQWfwhKzQO4)
+    + [![Watch the video]()]([https://www.youtube.com/watch?v=TqyIDx0yZuU](https://youtu.be/xQWfwhKzQO4))
 
 ---
 
