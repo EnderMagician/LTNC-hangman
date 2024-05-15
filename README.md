@@ -7,6 +7,7 @@
 - [Info](#Info).
 - [How to play](#How-to-play).
 - [Installation Instruction](#Installation-Instruction).
+- [Contact](#Contact).
 
 ---
 
@@ -35,3 +36,9 @@
 - Download the whole reposition and extract it, both "hangman" files and "resource" are specificially have to be in the same folder.
 
 - You can compile with makefile if your PC has mingw installed, with "mingw32-make" command on your terminal. Otherwise compile it with c++ compliler.
+
+---
+
+## Contact
+
+- Should you have any question, please contact me via my email: enderteyes@gmai.com.
